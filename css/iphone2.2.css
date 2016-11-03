@@ -1,0 +1,150 @@
+.lien{
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    
+}
+
+li a {
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 40px 14px 40px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+li a:hover {
+    background-color: #111;
+} 
+
+.iphonelogo{
+    margin-left: 120px;
+    margin-top: 3px;
+    margin-right: 50px;
+}
+.iphoneloupe,.iphonepanier{
+        width: 44%;
+}
+.li{
+        margin-right: 35px;
+}
+/*-------------1blok------------------*/
+
+.blok1{
+    margin-bottom: 50px;
+}
+.blok1 h1{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 80px;
+}
+
+.para1blok{
+   font-family: 'Raleway', sans-serif;
+    margin-left: 341px;
+    margin-top: 32px;
+    display: inline-block;
+    width: 45%;
+    text-align: center;
+    
+}
+.iphone7,.iphone7plus{
+    width: 20%;
+}
+.iphone7{
+    margin-left: 341px;
+    margin-right: 91px;
+    margin-top: 60px;
+}
+
+.leftblok{
+    display: inline-block;
+    text-align: -webkit-center;
+    position: absolute;
+    left: 130px;
+    top: 438px;
+}
+.righttblok{
+    display: inline-block;
+    text-align: -webkit-center;
+    position: absolute;
+    top: 437px;
+    left: 1018px;
+}
+.model{
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    margin-bottom: 10px;
+    display: -webkit-inline-box;
+}
+.size{
+   font-family: 'Raleway', sans-serif;
+    color: #666666;
+    margin-bottom: 15px;
+}
+.line{
+    font-family: 'Raleway', sans-serif;
+    width: 122px;
+    border: solid 1px;
+    color: #666666;
+    margin-bottom: 15px;
+}
+.price{
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 10px;
+    color: #666666;
+}
+.ok{
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    color: #0070c9;
+    border-bottom: 1px solid;
+}
+
+/*-------------2blok------------------*/
+.n1{
+    margin-left: 20px;   
+}
+.n1,.n2,.n3,.n4,.n5{
+    display: inline-block;
+    width: 19%;
+}
+
+.imgn1{
+    width: 100%;
+}
+
+.description{
+    font-family: 'Raleway', sans-serif;
+    margin-left: 51px;
+    margin-top: 15px;
+}
+
+.n1price{
+    font-family: 'Raleway', sans-serif;
+    color: #666666;
+    margin-left: 41px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    
+}
+
+.bo{
+    text-decoration: none;
+}
+
